@@ -13,7 +13,7 @@ import java.io.Serializable;
 import java.util.List;
 
 public class SplashActivity extends AppCompatActivity {
-    private static final String URL = "TXT格式电视直播列表网址";
+    private static final String URL = "mytvlist.txt";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
